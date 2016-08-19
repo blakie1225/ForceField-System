@@ -1,0 +1,10 @@
+[
+{
+  "modid": "forcefieldsystem",
+  "name": "ForceField System",
+  "description": "Forcefields and other forcey stuff!",
+  "version": "1.0",
+  "mcversion": "1.8.9",
+  "authorList": ["ME!"]
+}
+]

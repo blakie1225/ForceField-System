@@ -1,10 +1,10 @@
 [
 {
-  "modid": "forcefieldsystem",
+  "modid": "ForceFieldSystem",
   "name": "ForceField System",
   "description": "Forcefields and other forcy stuff!",
-  "version": "1.0",
-  "mcversion": "1.8.9",
+  "version": "1.7.10-1.0",
+  "mcversion": "1.7.10",
   "authorList": ["ME!"]
 }
 ]
